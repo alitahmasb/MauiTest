@@ -1,0 +1,1 @@
+E:\GitUpRepo\My MAUI Test\PhoneWord\PhoneWord\PhoneWord\PhoneWord.csproj;x64
